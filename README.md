@@ -1,6 +1,6 @@
 # PWA-TP3
 
-Bryan Loiodice Project Todolist
+Divin Angapay Project Todolist
 Fonctionality implemented
 * Effacer Tout
 * Copie de listes par QR-code
